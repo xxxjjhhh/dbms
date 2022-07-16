@@ -8,3 +8,8 @@ CREATE TABLE 테이블명(
   PRIMARY KEY(행벨류));
   
   //Query OK
+
+
+//error password
+
+SET PASSWORD = PASSWORD('비밀번호');
