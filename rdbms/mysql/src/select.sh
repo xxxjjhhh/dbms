@@ -12,3 +12,4 @@ SELECT 열벨류,열벨류,열벨류 테이블이름; //원하는 벨류만 볼 
 
 
 SELECT * FROM 테이블이름 WHERE 열벨류='값';
+SELECT * FROM 테이블이름 WHERE 열벨류='값' ORDER BY 열벨류 DESC; //내림차순
