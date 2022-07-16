@@ -1,7 +1,7 @@
 #!/bin/bsah
 
 SHOW DATABASES;
-SELECT 데이터베이스;
+USE 데이터베이스;
 
 SHOW TABLES;
 
