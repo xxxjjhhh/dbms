@@ -20,6 +20,8 @@ start
 <pre><code>
 mysql -uroot -p
 //password
+
+exit
 </pre></code>
 
 ***
