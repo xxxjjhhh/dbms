@@ -15,5 +15,11 @@ sudo apt-get install mysql-server
 //mysql_secure_installation
 </pre></code>
 
+start
+---
+<pre><code>
+mysql -uroot -p
+//password
+</pre></code>
 
 ***
