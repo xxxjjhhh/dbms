@@ -18,6 +18,7 @@ sudo apt-get install mysql-server
 start
 ---
 <pre><code>
+./
 mysql -uroot -p
 //password
 
