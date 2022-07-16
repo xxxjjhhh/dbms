@@ -1,7 +1,7 @@
 #!/bin/bsah
 
 SHOW DATABASES;
-SELECT 테이블이름;
+USE 이름;
 
 SHOW TABLES;
 
