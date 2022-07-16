@@ -1,4 +1,3 @@
-//in mysql
 #!/bin/bash
 
 
