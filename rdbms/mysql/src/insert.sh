@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SHOW DATABASES;
-USE 데이터베이스;
+USE 데이터베이스이름;
 
 SHOW TABLES;
 DESC 테이블이름; //show structure
