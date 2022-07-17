@@ -1,4 +1,4 @@
 #!/bin/bash
 
 SHOW DATABASES;
-//or SHOW SCHEMAs;
+//or SHOW SCHEMAS;
